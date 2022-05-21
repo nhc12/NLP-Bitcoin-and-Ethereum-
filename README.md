@@ -15,5 +15,5 @@
       *  List the top 10 words for each coin.
     * Word Cloud: generated word clouds for each coin to summarize the news for each coin
  4. Named Entity Recognition:built a named entity recognition model for both coins and visualize the tags using SpaCy.
- 5. Sources for inspiration: in-class assignment of NLP module
+ 5. Sources for inspiration: in-class assignments of NLP module
       
