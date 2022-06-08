@@ -19,6 +19,6 @@
       * Made predictions
       * Plotted the real vs predicted values as a line chart
 4. LSTM Stock Predictor Using Fear and Greed Index: replicated steps as above model but with Fear and Greed Index
-5. Conclusion: no significant difference between both. Closer predictions using closing prices (at least following the trend) but need to have a longer period to train the model. 
+5. Conclusion: no significant difference between both. Better predictions using closing prices (at least following the trend) but need to have a longer period to train the model. 
 6. Sources for inspiration: in-class assignments of NLP module
       
